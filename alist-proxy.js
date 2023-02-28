@@ -1,5 +1,5 @@
 // src/const.ts
-var ADDRESS = "YOUR_ADDRESS";
+var ADDRESS = "https://nessaj7alist.tocmcc.cn";
 var TOKEN = "YOUR_TOKEN";
 
 // src/verify.ts
